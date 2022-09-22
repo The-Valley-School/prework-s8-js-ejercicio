@@ -18,7 +18,7 @@ Creamos primero la estructura del carrito con el título:
 </aside>
 ```
 
-CARRITO VACÍO
+### CARRITO VACÍO
 
 Agregamos la imagen, el texto y maquetamos:
 
@@ -51,7 +51,7 @@ Agregamos la imagen, el texto y maquetamos:
 
 Cuando estemos trabajando ya con JS para mostrar esta opción o la del listado, jugaremos con la propiedad display:none / display:flex para mostrar o no esta sección.
 
-CARRITO CON ELEMENTOS
+### CARRITO CON ELEMENTOS
 
 Tendremos un elemento por linea que contenga:
 
