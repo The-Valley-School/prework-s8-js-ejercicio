@@ -70,7 +70,7 @@ let productos = [
 
 A partir de aquí podríamos enfocarlo de la misma manera que el ejercicio de globo:
 
-ESTRUCTURA, HEADER Y FOOTER
+### ESTRUCTURA, HEADER Y FOOTER
 
 Creamos nuestra estructura y maquetamos el header y footer.
 
@@ -88,7 +88,7 @@ background-color: #5BB289;
 background-color: #F7F8F6;
 ```
 
-MAIN, LISTA DE PRODUCTOS
+### MAIN, LISTA DE PRODUCTOS
 
 Utilizaremos nuestros conocimientos en HTML y CSS para ir montando un listado de items que tengan foto, nombre, precio y botón:
 
@@ -98,7 +98,7 @@ Utilizaremos nuestros conocimientos en HTML y CSS para ir montando un listado de
 #714000; /* Color de la letra del botón */
 ```
 
-MAIN, CARRITO DE LA COMPRA
+### MAIN, CARRITO DE LA COMPRA
 
 Estructuramos cada uno de los elementos del carrito de compta:
 
@@ -106,7 +106,7 @@ Estructuramos cada uno de los elementos del carrito de compta:
 maroon /* color del texto de unidades */
 ```
 
-LISTADO DE PRODUCTOS DINÁMICOS / CARRITO DE LA COMPRA DINÁMICOS
+### LISTADO DE PRODUCTOS DINÁMICOS / CARRITO DE LA COMPRA DINÁMICOS
 
 Tips importantes:
 
