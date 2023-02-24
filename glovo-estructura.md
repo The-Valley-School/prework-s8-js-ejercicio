@@ -21,7 +21,7 @@ Creamos esta estructura principal:
 
 <!-- Terce Bloque: Footer -->
 
-<footer">
+<footer>
 </footer>
 ```
 
@@ -52,15 +52,8 @@ body {
 .logo {
   width: 100px;
   height: auto;
-}.header {
-  background-color: #FBC244;
-  padding: 25px;
 }
 
-.logo {
-  width: 100px;
-  height: auto;
-}
 ```
 
 Aprovechamos también y dejamos maquetado el footer. Agruparemos cada columna y pondremos también el logo.
